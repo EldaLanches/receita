@@ -1,4 +1,10 @@
+img {
+    width: 180px;
+    height: 190px;
+    border-radius: 10px;
+    object-fit: cover;
 
+}
 body{
     background-color: azure;
 
