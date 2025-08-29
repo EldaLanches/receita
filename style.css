@@ -5,24 +5,29 @@ img {
     object-fit: cover;
 }
 
-body{
+body {
     background-color: rgb(255, 228, 198);
     font-size: 20px;
 }
-h1{
+
+h1 {
     text-align: center;
     color: brown;
     font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
 }
 
-h2{
+h2 {
     color: rgb(134, 60, 60);
 }
 
 
 .quicksand-<uniquifier> {
-  font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
